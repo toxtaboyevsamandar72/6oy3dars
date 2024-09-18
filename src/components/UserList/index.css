@@ -1,0 +1,12 @@
+.user-list {
+    width: 400px;
+    background-color: rgb(226, 226, 238);
+    gap: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.text {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
